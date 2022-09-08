@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warehouse", "Warehouse\Warehouse.csproj", "{A3835ECA-CCED-4965-864C-16101365DBC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{6EFD5296-FD24-41C1-94E0-E1730C5AE602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModels", "ViewModels\ViewModels.csproj", "{01488AA9-EFFA-440C-B358-5BB46ECF368A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3835ECA-CCED-4965-864C-16101365DBC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3835ECA-CCED-4965-864C-16101365DBC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3835ECA-CCED-4965-864C-16101365DBC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3835ECA-CCED-4965-864C-16101365DBC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EFD5296-FD24-41C1-94E0-E1730C5AE602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFD5296-FD24-41C1-94E0-E1730C5AE602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFD5296-FD24-41C1-94E0-E1730C5AE602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFD5296-FD24-41C1-94E0-E1730C5AE602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01488AA9-EFFA-440C-B358-5BB46ECF368A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01488AA9-EFFA-440C-B358-5BB46ECF368A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01488AA9-EFFA-440C-B358-5BB46ECF368A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01488AA9-EFFA-440C-B358-5BB46ECF368A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D2093BC-2D77-4AD5-8ECE-15F5A4CA4C87}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a3835eca-cced-4965-864c-16101365dbc6": {
+      "ProjectGuid": "a3835eca-cced-4965-864c-16101365dbc6",
+      "DisplayName": "Warehouse",
+      "ColorIndex": 0
+    },
+    "5f8407a7-0fe4-467d-b107-7fc8e5223332": {
+      "ProjectGuid": "5f8407a7-0fe4-467d-b107-7fc8e5223332",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    },
+    "089f3003-baa7-4fdc-affb-1c2f495ec83e": {
+      "ProjectGuid": "089f3003-baa7-4fdc-affb-1c2f495ec83e",
+      "DisplayName": "EntityLayer",
+      "ColorIndex": 2
+    },
+    "208f756c-188b-4c1b-8c11-8ff6cac40a20": {
+      "ProjectGuid": "208f756c-188b-4c1b-8c11-8ff6cac40a20",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 3
+    },
+    "6efd5296-fd24-41c1-94e0-e1730c5ae602": {
+      "ProjectGuid": "6efd5296-fd24-41c1-94e0-e1730c5ae602",
+      "DisplayName": "DataLayer",
+      "ColorIndex": 4
+    },
+    "1bafab8b-cfe7-488b-b8c4-c04a5510290e": {
+      "ProjectGuid": "1bafab8b-cfe7-488b-b8c4-c04a5510290e",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 5
+    },
+    "01488aa9-effa-440c-b358-5bb46ecf368a": {
+      "ProjectGuid": "01488aa9-effa-440c-b358-5bb46ecf368a",
+      "DisplayName": "ViewModels",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 7
+}
